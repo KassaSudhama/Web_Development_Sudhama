@@ -1,0 +1,33 @@
+.container{
+    /* border: 1px solid red; */
+    margin: 0 30px;
+}
+
+
+.header-table{
+    width: 100%;
+    height: 130px;
+}
+
+.logo-section, .form-heading-section, .enquiry-section{
+    width: 33%;
+    /* border: 1px solid black; */
+}
+
+.logo{
+    background-image: url('Images/cb-form.png');
+    background-repeat: no-repeat;
+    background-size: contain;
+    height: 130px;
+    
+}
+
+.form-heading{
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+.form-heading, .enquiry{
+    font-size: 22px;
+    text-align: center;
+}

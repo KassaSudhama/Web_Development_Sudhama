@@ -1,0 +1,120 @@
+/* Section -1 */
+
+.location-text{
+    font-size: 26px;
+    font-weight: 300;
+    margin: 30px 45px;
+}
+
+.location{
+    width: 100%;
+}
+
+.location-container-1{
+    float: left;
+    width: 45%;
+    margin-left: 45px;
+}
+
+.location-container-2{
+    float: right;
+    width: 45%;
+}
+
+.option-1, .option-2{
+    font-size: 20px;
+}
+
+.location-1, .location-2{
+    height: 20px;
+    width: 20px;
+}
+
+/* Section-2 */
+
+.know-section{
+    width: 100%;
+}
+
+.know-text{
+    font-size: 26px;
+    font-weight: 300;
+    margin: 30px 45px;
+}
+
+.know-table, .know-table-row{
+    width: 100%;
+}
+
+.know-table-column{
+    width: 23%;
+}
+
+.know-checkbox-text{
+    font-size: 20px;
+    margin-left: 45px;
+}
+
+.know-checkbox{
+    height: 20px;
+    width: 20px;
+}
+/* Last Section */
+
+.last-section{
+    width: 100%;
+    margin-top: 35px;
+}
+
+.last-section-option{
+    margin-left: 100px;
+    height: 20px;
+    width: 20px;
+}
+
+.last-checkbox-text{
+    font-size: 20px;
+}
+
+.last-section-text{
+    font-size: 26px;
+    font-weight: 300;
+    margin: 30px 45px;
+}
+.last-section-span{
+    margin: 30px 45px;
+    font-size: 20px;
+}
+.last-section-text-1{
+    width: 40%;
+}
+.last-section-1{
+    margin-top: 35px;
+}
+.last-section-text-2{
+    width: 26%;
+}
+
+/* Last Section-1 */
+
+.last-section-1-table{
+    /* border: 1px solid black; */
+    width: 100%;
+    margin-top: 35px;
+    margin-left: 45px;
+}
+.last-section-1-text{
+    font-size: 20px;
+}
+/* .last-section-1-tablerow{
+    width: 100%;
+} */
+.last-section-1-colummn{
+    width: 30%;
+}
+
+/* Last Element */
+.last-element{
+    margin: 35px 45px;
+    font-size: 20px;
+}

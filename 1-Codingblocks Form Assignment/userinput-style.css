@@ -1,0 +1,41 @@
+.user-information{
+    /* border: 1px solid black; */
+    /* height: 400px; */
+    width: 100%;
+    margin-top: 50px;
+}
+
+.user-information-row{
+    width: 100%;
+}
+
+.user-input-text{
+    float: left;
+    width: 30%;
+}
+
+.user-input-in{
+    float: right;
+    width: 65%;
+    /* border: 1px solid green; */
+}
+
+.user-info-column-1{
+    /* border: 1px solid black; */
+    margin: 0 50px;
+}
+
+.user-text{
+    font-size: 20px;
+    margin: 10px 0;
+}
+.user-input{
+    font-size: 20px;
+    width: 70%;
+    margin: 2.5px 0;
+}
+
+.user-info-column-2{
+    /* border: 1px solid black; */
+    margin: 0 50px;
+}
